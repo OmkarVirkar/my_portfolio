@@ -1,0 +1,28 @@
+.contact-item {
+  background: #36363e;
+  height: 60px;
+  line-height: 60px;
+  margin-bottom: 2rem;
+}
+
+.contact-item .ct-item-icon {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.contact-me-item {
+  color: #e4aa48;
+}
+
+.contact-me-item:hover {
+  text-decoration: none;
+  color: #e4aa48;
+}
+
+.contact-item {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.contact-item:hover {
+  box-shadow: 0px 3px 22px 1px #e4aa48;
+}

@@ -1,0 +1,102 @@
+@media (min-width: 768px) and (max-width: 991px){
+    .name h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+}
+
+#left-side-intro h1 {
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 60px;
+}
+
+.pc{
+    color: #e4aa48
+}
+
+.intro-padding-top{
+    padding: 7% 3% 0% 3%;
+}
+
+#left-side-intro .dash {
+    margin-top: 31px;
+    margin-bottom: 14px;
+}
+
+.social-links a, .social-links{
+    font-size: 14px;
+    line-height: 24px;
+    color: #dadada;
+    font-weight: 700;
+}
+
+.social-links a:hover{
+    color: #e4aa48;
+    text-decoration: none;
+}
+
+.slick-slide div {
+    outline: none;
+}
+
+.dash {
+    width: 40px;
+    height: 2px;
+    background: #e4aa48;
+}
+
+#right-intro-div{
+    width: 30%;
+}
+
+#left-side-intro{
+    width: 20%;
+}
+
+#centre-intro-div{
+    width: 50%;
+}
+
+.ct-btn {
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color: #e4aa48;
+    border: 2px solid #e4aa48;
+    width: 150px;
+    height: 50px;
+    line-height: 46px;
+    letter-spacing: .12em;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.ct-btn:hover{
+    color: black;
+    background: #e4aa48;
+    transition: .9s;
+}
+
+.contact-me-div{
+    margin-top: 40px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+@media (max-width: 992px){
+    #right-intro-div{
+        display: none;
+    }
+
+    #centre-intro-div{
+        width: 60%;
+    }
+
+    #left-side-intro{
+        width: 40%;
+    }
+}

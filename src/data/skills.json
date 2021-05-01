@@ -1,0 +1,37 @@
+[{
+    "skillName":"ReactJS",
+    "skillImage": "reactJs-image"
+},{
+    "skillName":"NodeJS",
+    "skillImage": "nodejs"
+},{
+    "skillName":"PHP",
+    "skillImage": "php"
+},{
+    "skillName":"HTML",
+    "skillImage": "html"
+},{
+    "skillName":"CSS",
+    "skillImage": "css"
+},{
+    "skillName":"Material UI",
+    "skillImage": "material-ui"
+},{
+    "skillName":"Bootstrap",
+    "skillImage": "bootstrap"
+},{
+    "skillName":"React-Bootstrap",
+    "skillImage": "react-bootstrap"
+},{
+    "skillName":"MySQL",
+    "skillImage": "mysql"
+},{
+    "skillName":"MongoDB",
+    "skillImage": "mongodb"
+},{
+    "skillName":"TypeScript",
+    "skillImage": "typescript"
+},{
+    "skillName":"ExpressJs",
+    "skillImage": "express"
+}]
